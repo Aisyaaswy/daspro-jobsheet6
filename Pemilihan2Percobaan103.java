@@ -19,6 +19,6 @@ public class Pemilihan2Percobaan103 {
                 }
             }
         } else 
-        System.out.println("Bukan Tahun Kabisat");
+            System.out.println("Bukan Tahun Kabisat");
     }
 }
